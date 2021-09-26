@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <name>Stripe</name>
+    <version>1.0.0</version>
+    <author>Anzarkhan.com</author>
+    <email>contact@anzarkhan.com</email>
+    <url>http://www.anzarkhan.com</url>
+    <copyright>(C) 2017 Anzarkhan.com. All rights reserved</copyright>
+    <license>GNU General Public License version 3</license>
+    <description>Default Stripe Checkout Payment Form</description>
+</extension>
